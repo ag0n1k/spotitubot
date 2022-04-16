@@ -1,0 +1,6 @@
+.env
+.git
+.gitignore
+.idea
+.github
+.flake8
